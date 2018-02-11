@@ -1,1 +1,1 @@
-Primer fichero en el primer repositorio de <Jesus Garcia>
+Primer fichero en el primer repositorio de Jesus Garcia
